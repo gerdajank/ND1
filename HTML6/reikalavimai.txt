@@ -1,0 +1,2 @@
+Sukurkite neveikianti skaiciuotuva. Galite naudoti <table>. Panaudokite formos elementus: sudekite mygtukus ir teksto ivedimo lauka i atitinkamus lenteles langelius.
+Mygtuko input'as <input type="button" value="Skaiciuoti" />, kitus jau mokate.
